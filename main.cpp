@@ -1,3 +1,4 @@
+#define WINDOWS_IGNORE_PACKING_MISMATCH
 #include "xfsapi.h"
 #include "xfscdm.h"
 #include "cmd.h"
